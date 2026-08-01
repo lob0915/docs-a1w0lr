@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-l0kxl2.abutogel8iuy.sbs/sitemap.xml
